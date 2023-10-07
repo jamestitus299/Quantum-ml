@@ -8,3 +8,4 @@ tqdm
 qiskit
 qiskit[visualization]
 ipykernel
+qiskit_aer
