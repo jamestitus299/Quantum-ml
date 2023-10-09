@@ -8,4 +8,3 @@ pandas
 qiskit
 qiskit[visualization]
 ipykernel
-# qiskit_aer
