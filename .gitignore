@@ -1,5 +1,5 @@
 notebooks/cifar_net.pth
 .ipynb_checkpoints/
-qcomenv/
+qenv/
 .vscode/
 .env

@@ -1,10 +1,4 @@
-# torch==1.12.1
-# torchvision==0.13.1
-# tqdm
-ipywidgets
-matplotlib
-numpy
-pandas
-qiskit
-qiskit[visualization]
 ipykernel
+qiskit[visualization]
+qiskit-ibmq-provider
+qiskit-aer
