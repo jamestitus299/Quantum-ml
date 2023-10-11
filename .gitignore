@@ -3,3 +3,4 @@ notebooks/cifar_net.pth
 qenv/
 .vscode/
 .env
+/data

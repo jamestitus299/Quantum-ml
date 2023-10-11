@@ -1,4 +1,9 @@
 ipykernel
+
 qiskit[visualization]
 qiskit-ibmq-provider
 qiskit-aer
+
+cirq
+
+tensorflow
