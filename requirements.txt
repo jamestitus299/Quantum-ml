@@ -1,4 +1,5 @@
 ipykernel
+matplotlib
 
 qiskit[visualization]
 qiskit-ibmq-provider
