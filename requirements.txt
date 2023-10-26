@@ -7,6 +7,8 @@ qiskit[visualization]
 qiskit-ibmq-provider
 qiskit-aer
 
+pennylane
+
 cirq
 
 tensorflow
