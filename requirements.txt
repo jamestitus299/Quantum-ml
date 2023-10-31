@@ -1,5 +1,6 @@
 ipykernel
 matplotlib
+seaborn
 numpy
 pandas
 
@@ -12,3 +13,6 @@ pennylane
 cirq
 
 tensorflow
+tensorflow-quantum
+
+scikit-learn
