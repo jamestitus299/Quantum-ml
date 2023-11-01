@@ -4,4 +4,4 @@ qcenv/
 .vscode/
 .devcontainer
 .env
-# /data
+/data
